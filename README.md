@@ -1,4 +1,4 @@
-# Deploy React Application on Cloud using Jenkins - DevOps
+# Deploy React Application on Cloud using CI/CD
 
 ## **Phase 1: Initial Setup and Deployment**
 
