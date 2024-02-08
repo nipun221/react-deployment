@@ -1,4 +1,4 @@
-# Deploy React Application on Cloud using CI/CD
+# CI/CD Infrastructure for Deployment of React Application on Cloud
 
 ## **Phase 1: Initial Setup and Deployment**
 
